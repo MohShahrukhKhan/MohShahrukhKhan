@@ -1,4 +1,6 @@
 
+<img  src="http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif">
+
 <h1 align="center">Hi 👋, I'm Moh Shahrukh Khan</h1>
 <h3 align="center">A passionate Backend Java developer from India</h3>
 
@@ -6,9 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohshahrukhkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mohshahrukhkhan" /> </p>
 
+- 🔭 I’m currently pursuing **JAVA Back-End**
 
-
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring Boot**
+ 
+- 💬 Ask me about **JAVA/JavaScript**
 
 - 📫 How to reach me **Shahrukhturk9@gmail.com**
 
